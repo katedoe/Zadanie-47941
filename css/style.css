@@ -1,0 +1,17 @@
+.obiekt {
+    width: 300px;
+    height: 200px;
+    border: 10px;
+    border-style: solid;
+    border-left-color: red;
+    border-top-color: blue;
+    border-right-color: chocolate;
+    border-bottom-color: darkgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    color: darkmagenta;
+}
